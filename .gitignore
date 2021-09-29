@@ -1,6 +1,6 @@
 # Truffle
 build/
-truffe-config.js
+truffle-config.js
 
 # MacOS
 .DS_Store
